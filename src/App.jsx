@@ -6,6 +6,7 @@ import Projects from './components/Projects';
 import Skills from './components/Skills';
 import Education from './components/Education';
 import Contact, { Footer } from './components/Contact';
+import Testimonials from './components/Testimonials';
 
 export default function App() {
   return (
@@ -31,6 +32,7 @@ export default function App() {
         <Projects />
         <Skills />
         <Education />
+        <Testimonials />
         <Contact />
       </main>
       <Footer />
