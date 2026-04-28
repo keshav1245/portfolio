@@ -115,7 +115,6 @@ export const projects = [
     bullets: [
       "Led a cross-functional team of 5 to deliver an NLP-based analytics platform for a real-world client.",
       "Improved team delivery efficiency, increasing sprint velocity from 35 to 50 story points.",
-      "Designed and developed backend services using Django and Python for scalable data processing.",
       "Collaborated closely with stakeholders to translate requirements into structured workflows and deliverables.",
       "Managed project execution using Agile practices including sprint planning, Kanban tracking, and risk analysis.",
     ],
