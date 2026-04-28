@@ -108,6 +108,21 @@ export const projects = [
     featured: true,
   },
   {
+    name: "Penwell",
+    org: "Penwell Pvt. Ltd.",
+    category: "EdTech",
+    description: "NLP-powered literacy analytics platform delivering actionable insights for educational stakeholders.",
+    bullets: [
+      "Led a cross-functional team of 5 to deliver an NLP-based analytics platform for a real-world client.",
+      "Improved team delivery efficiency, increasing sprint velocity from 35 to 50 story points.",
+      "Designed and developed backend services using Django and Python for scalable data processing.",
+      "Collaborated closely with stakeholders to translate requirements into structured workflows and deliverables.",
+      "Managed project execution using Agile practices including sprint planning, Kanban tracking, and risk analysis.",
+    ],
+    stack: ["Django", "Python", "AngularJS", "PostgreSQL", "Agile"],
+    featured: true,
+  },
+  {
     name: "Enterprise Media Player",
     org: "Iconiq Skills India Pvt. Ltd.",
     category: "EdTech",
